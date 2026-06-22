@@ -1,4 +1,3 @@
-
 import streamlit as st
 import requests
 
@@ -12,7 +11,7 @@ if code:
     url = "https://api.deepseek.com/v1/chat/completions"
 
     headers = {
-        "Authorization": "Bearer sk-a4aab40000554b7abffd90b200f17f53
+        "Authorization": "Bearer sk-a8c4efc18aea4c558260f3a3ae5e6a1e
         "Content-Type": "application/json"
     }
 
