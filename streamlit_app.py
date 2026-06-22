@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🚀 我的股票分析系统")
+st.title("我的股票分析系统")
 
 code = st.text_input("输入股票代码：")
 
